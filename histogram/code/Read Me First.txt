@@ -1,0 +1,3 @@
+1 Use eclipse or other IDE to run the JAVA project
+
+2 Pay attention: the path of input image and output image should change to the path in your computer
